@@ -1,5 +1,7 @@
-
+{% row %}
 $\LaTex a^2+b^2=c^2.$
+{% endrow %}
+
 ## Jegyzetek, megjegyzések, vizsgák 
 * Az órák megértését segítendő, előadásjegyzet készült: [Mértékelmélet 2011](http://www.bke.hu/magyarkuti/Mertekelmelet-2011.pdf)
 * Azoknak, akik nem kedvelik a rövid jegyzetet itt a könyv egy aktualizált változata: 
