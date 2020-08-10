@@ -1,5 +1,6 @@
+{% include head.html %}
 
-$\LaTex a^2+b^2=d^2.$
+$$\LaTex a^2+b^2=d^2.$$
 
 
 ## Jegyzetek, megjegyzések, vizsgák 
