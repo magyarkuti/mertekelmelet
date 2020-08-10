@@ -18,7 +18,7 @@ A feladatokat és a megoldásokat ajánlom tanulmányozásra!
    * Lezási operáció buroktéren, legfontosabb tulajdonságai
    * Félgyűrű
    * Gyűrű, Algebra
-   * Szigma-gyűrű, szigma-algebra
+   * $$\sigma$$-gyűrű, $$\sigma$$-algebra
    * Monoton osztály
    * Gyűrű monoton osztály burka gyűrű marad
 
@@ -36,7 +36,7 @@ A feladatokat és a megoldásokat ajánlom tanulmányozásra!
 1. Mérhetőség és a legegyszerűbb tulajdonságok 
    * Topologikus tér Borel-halmazainak definíciója
    * Borel-halmazok szigma-algebrájának generátorrendszerei
-   * Speciális estek, $\mathbb{R}$ és $\mathbb{R}^n$ ellátva az euklideszi metrikával
+   * Speciális estek, $$\mathbb{R}$$ és $$\mathbb{R}^n$$ ellátva az euklideszi metrikával
    * Függvények mérhetősége, Borel-mérhetősége
    * Folytonos függvény Borel-mérhető
    * Mérhető függvények kompozíciója is mérhető
@@ -75,13 +75,13 @@ A feladatokat és a megoldásokat ajánlom tanulmányozásra!
    * A Riemann-improprius integrál és a Lebesgue integrál kapcsolata
    * Az integrál homogenitása és additivitása
    * Az $$L_{1}$$ "függvény osztály" definíciója
-   * Az integrál egy pozitív lineáris funkcionál $L_{1}$ -en
+   * Az integrál egy pozitív lineáris funkcionál $$L_{1}$$ -en
    * Az $$L_{1}$$ normált tér
    * Egy $$L_{1}$$-beli függvény majdnem minden pontban véges
-   * Ha egy mérhető függvény minden mérhető halmazon vett integrálja 0, akkor a függvény majdnem mindenütt zérus
+   * Ha egy mérhető függvény minden mérhető halmazon vett integrálja $$0$$, akkor a függvény majdnem mindenütt zérus
    * Majorált konvergencia tétel függvénysorozatokra
    * Majorált konvergencia tétel függvény sorokra
-   * A $l_1$ normált tér definíciója, és az integrálhatóság jelentése
+   * A $$l_1$$ normált tér definíciója, és az integrálhatóság jelentése
 
 1. A Caratheodory-féle kiterjesztési eljárás 
    * Külső mérték definíciója
@@ -102,7 +102,7 @@ A feladatokat és a megoldásokat ajánlom tanulmányozásra!
      * $$\mathcal{G}_\delta$$ és $$\mathcal{F}_\sigma$$ tipusú halmazokkal.
 
 1. Fubini-tétel 
-   * Véges sok $\sigma$-véges mértéktér szorzata
+   * Véges sok $$\sigma$$-véges mértéktér szorzata
    * Halmaz és függvény szelete
    * Szorzat mérhető halmaz minden szelete is mérhető
    * Szorzat mérhető függvény minden szelete is mérhető
@@ -110,7 +110,7 @@ A feladatokat és a megoldásokat ajánlom tanulmányozásra!
    * Fubini tétele:
      * mérhető halmazokra;
      * nem negatív mérhető függvényekre
-     * $L_1$-beli függvényekre
+     * $$L_1$$-beli függvényekre
      * Ellenpélda az $$L_1$$ szükségszerűségére
 
 1. Egyenlőtlenségek 
@@ -156,7 +156,7 @@ A feladatokat és a megoldásokat ajánlom tanulmányozásra!
 1. $$L_p$$ duálisa 
    * Példa $$L_p$$-n értlemezett folytonos lineáris funkcionálra
    * Véges mérték tér mellett $$L_p$$ duálisa $$L_q$$, ahol $$p\geq 1$$
-   * $$L_1$$ duálisa $$L_\infty$$ ha a mértéktér $\sigma$--véges
+   * $$L_1$$ duálisa $$L_\infty$$ ha a mértéktér $$\sigma$$-véges
    * $$L_p$$ duálisa $$L_q$$ tetszőleges mérték mellett ha $$p>1$$
 
 1. Valószínűségszámítás alapdefiníciói 
