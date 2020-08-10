@@ -1,8 +1,5 @@
 {% include head.html %}
 
-$\LaTex a^2+b^2=d^2.$
-
-
 ## Jegyzetek, megjegyzések, vizsgák 
 * Az órák megértését segítendő, előadásjegyzet készült: [Mértékelmélet 2011](http://www.bke.hu/magyarkuti/Mertekelmelet-2011.pdf)
 * Azoknak, akik nem kedvelik a rövid jegyzetet itt a könyv egy aktualizált változata: 
@@ -77,10 +74,10 @@ A feladatokat és a megoldásokat ajánlom tanulmányozásra!
    * Az integrál fogalma
    * A Riemann-improprius integrál és a Lebesgue integrál kapcsolata
    * Az integrál homogenitása és additivitása
-   * Az $L_{1}$ "függvény osztály" definíciója
+   * Az $$L_{1}$$ "függvény osztály" definíciója
    * Az integrál egy pozitív lineáris funkcionál $L_{1}$ -en
-   * Az $L_{1}$ normált tér
-   * Egy $L_{1}$-beli függvény majdnem minden pontban véges
+   * Az $$L_{1}$$ normált tér
+   * Egy $$L_{1}$$-beli függvény majdnem minden pontban véges
    * Ha egy mérhető függvény minden mérhető halmazon vett integrálja 0, akkor a függvény majdnem mindenütt zérus
    * Majorált konvergencia tétel függvénysorozatokra
    * Majorált konvergencia tétel függvény sorokra
@@ -92,7 +89,7 @@ A feladatokat és a megoldásokat ajánlom tanulmányozásra!
    * Caratheodory-értelemben mérhető halmaz definíciója
    * Külső mérték megszorítása a Caratheodory-értelemben vett mérhető halmazokra egy teljes mértékteret ad
    * Kiterjesztési tétel
-   * Az unicitás $\sigma$-véges esetben
+   * Az unicitás $$\sigma$$-véges esetben
 
 1. Lebesgue-mérték
    * A Lebesgue-mérték definíciója
@@ -102,7 +99,7 @@ A feladatokat és a megoldásokat ajánlom tanulmányozásra!
    * A Lebesque-külsőmérték kívülről nyílt-reguláris
    * Lebesgue-mérhető halmazok approximációja: 
      * nyílt és zárt;
-     * $\mathcal{G}_\delta$ és $\mathcal{F}_\sigma$ tipusú halmazokkal.
+     * $$\mathcal{G}_\delta$$ és $$\mathcal{F}_\sigma$$ tipusú halmazokkal.
 
 1. Fubini-tétel 
    * Véges sok $\sigma$-véges mértéktér szorzata
@@ -114,21 +111,21 @@ A feladatokat és a megoldásokat ajánlom tanulmányozásra!
      * mérhető halmazokra;
      * nem negatív mérhető függvényekre
      * $L_1$-beli függvényekre
-     * Ellenpélda az $L_1$ szükségszerűségére
+     * Ellenpélda az $$L_1$$ szükségszerűségére
 
 1. Egyenlőtlenségek 
    * Jensen-egyenlőtlenség
    * Hölder-egyenlőtlenség
    * Minkowski-egyenlőtlenség
-   * Az $L_\infty$ terek
-   * Az $L_p$ terek definíciója
-   * Az $L_p$ tér normált tér.
-   * Az $\mathbb{R}^n$ tér mint speciális $L_p$ tér.
-   * A $l_p$ terek
+   * Az $$L_\infty$$ terek
+   * Az $$L_p$$ terek definíciója
+   * Az $$L_p$$ tér normált tér.
+   * Az $$\mathbb{R}^n$$ tér mint speciális $$L_p$$ tér.
+   * A $$l_p$$ terek
 
-1. $L_p$ terek teljessége 
-   * Riesz-lemma:$L_p$ ben Cauchy sorozatnak létezik pontonként konvergens részsorozata
-   * Riesz-Fisher tétel az $L_p$ terek teljességéről
+1. $$L_p$$ terek teljessége 
+   * Riesz-lemma:$$L_p$$-ben Cauchy sorozatnak létezik pontonként konvergens részsorozata
+   * Riesz-Fisher tétel az $$L_p$$ terek teljességéről
 
 1. Hilbert tér lineáris funkcionáljainak reprezentációja 
    * Hilbert nem üres, konvex zárt halmazának van legkisebb normájú pontja.
@@ -156,11 +153,11 @@ A feladatokat és a megoldásokat ajánlom tanulmányozásra!
    * Integrál mértek negatív változásának, pozitív változásának, teljes változásának integrál alakja
    * Hahn--felbontási tétel
 
-1. $L_p$ duálisa 
-   * Példa $L_p$-n értlemezett folytonos lineáris funkcionálra
-   * Véges mérték tér mellett $L_p$ duálisa $L_q$, ahol $p\geq 1$
-   * $L_1$ duálisa $L_\infty$ ha a mértéktér $\sigma$--véges
-   * $L_p$ duálisa $L_q$ tetszőleges mérték mellett ha $p>1$
+1. $$L_p$$ duálisa 
+   * Példa $$L_p$$-n értlemezett folytonos lineáris funkcionálra
+   * Véges mérték tér mellett $$L_p$$ duálisa $$L_q$$, ahol $$p\geq 1$$
+   * $$L_1$$ duálisa $$L_\infty$$ ha a mértéktér $\sigma$--véges
+   * $$L_p$$ duálisa $$L_q$$ tetszőleges mérték mellett ha $$p>1$$
 
 1. Valószínűségszámítás alapdefiníciói 
    * Valószínűségi mező
@@ -169,5 +166,5 @@ A feladatokat és a megoldásokat ajánlom tanulmányozásra!
    * Valószínűségi változó eloszlása
    * Abszolút folytonos valószínűségi változó fogalma és sűrűségfüggvénye mint egy Radon-Nikodym derivált
    * Valószínűségi változónak pozitív valószínűségű eseményre vonatkozó várható értéke
-   * Valószínűségi változónak megszámlálható partíció generálta $\sigma$-algebrára vonatkozó várható értéke
-   * Valószínűségi változónak $\sigma$-algebrára vonatkozó várható értéke, mint Radon-Nikodym derivált
+   * Valószínűségi változónak megszámlálható partíció generálta $$\sigma$$-algebrára vonatkozó várható értéke
+   * Valószínűségi változónak $$\sigma$$-algebrára vonatkozó várható értéke, mint Radon-Nikodym derivált
