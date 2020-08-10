@@ -74,7 +74,7 @@ A feladatokat és a megoldásokat ajánlom tanulmányozásra!
    * Az integrál fogalma
    * A Riemann-improprius integrál és a Lebesgue integrál kapcsolata
    * Az integrál homogenitása és additivitása
-   * Az $$L_{1}$$ "függvény osztály" definíciója
+   * Az $$L_{1}$$ ,,függvény osztály'' definíciója
    * Az integrál egy pozitív lineáris funkcionál $$L_{1}$$ -en
    * Az $$L_{1}$$ normált tér
    * Egy $$L_{1}$$-beli függvény majdnem minden pontban véges
