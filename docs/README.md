@@ -4,7 +4,7 @@
 <script defer src="https://cdn.jsdelivr.net/npm/katex@0.10.2/dist/contrib/auto-render.min.js" integrity="sha384-kWPLUVMOks5AQFrykwIup5lo0m3iMkkHrD0uJ4H5cjeGihAutqP0yW0J6dpFiVkI" crossorigin="anonymous" onload="renderMathInElement(document.body);"></script>
 </head>
 
-$$\LaTex a^2+b^2=c^2.$$
+\\[\LaTex a^2+b^2=c^2.\\]
 ## Jegyzetek, megjegyzések, vizsgák 
 * Az órák megértését segítendő, előadásjegyzet készült: [Mértékelmélet 2011](http://www.bke.hu/magyarkuti/Mertekelmelet-2011.pdf)
 * Azoknak, akik nem kedvelik a rövid jegyzetet itt a könyv egy aktualizált változata: 
