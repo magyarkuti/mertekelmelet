@@ -1,6 +1,6 @@
 ---
 permalink: /mertekelmelet.html
-usemathjax: true
+
 ---
 $\LaTex a^2+b^2=d^2.$
 
