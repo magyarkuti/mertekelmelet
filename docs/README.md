@@ -2,7 +2,7 @@
 permalink: /mertekelmelet.html
 usemathjax: true
 ---
-$\LaTex a^2+b^2=c^2.$
+$\LaTex a^2+b^2=d^2.$
 
 
 ## Jegyzetek, megjegyzések, vizsgák 
