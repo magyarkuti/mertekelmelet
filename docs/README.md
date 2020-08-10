@@ -1,7 +1,4 @@
----
-permalink: /mertekelmelet.html
 
----
 $\LaTex a^2+b^2=d^2.$
 
 
