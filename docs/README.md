@@ -12,7 +12,7 @@ Kötelességem feltüntetni a kiadói jogok tulajdonosát az eredeti változat m
 
 1. Halmazrendszerek 
    * Buroktér, példa burokterekre
-   * Lezási operáció buroktéren, legfontosabb tulajdonságai
+   * Lezárási operáció buroktéren, legfontosabb tulajdonságai
    * Félgyűrű
    * Gyűrű, Algebra
    * $$\sigma$$-gyűrű, $$\sigma$$-algebra
