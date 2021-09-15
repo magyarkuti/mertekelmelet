@@ -6,12 +6,12 @@
 [Mértékelmélet és Dinamikus Programozás (v1.5-3)](http://www.bke.hu/magyarkuti/main.pdf) 
 Kötelességem feltüntetni a kiadói jogok tulajdonosát az eredeti változat megjelölésével: 
 [Mértékelmélet és Dinamikus Programozás, TypoTeX 2014](http://www.tankonyvtar.hu/hu/tartalom/tamop412A/2009-0045_magyarkuti_mertekelmelet/magyarkuti_mertekelmelet_1_1.html).
-<!--
+<!---
 * Korábbi kiváló hallgatóim *Pál Jenő* és *Sali András* még 2009-ben 
 [feladatmegoldó konzultációkat](http://sites.google.com/site/mertekkonz09/)
  tartottak. 
 A feladatokat és a megoldásokat ajánlom tanulmányozásra!
--->
+--->
 
 ## Az órákon elhangzott fontosabb fogalmak (Tételjegyzék) 
 
