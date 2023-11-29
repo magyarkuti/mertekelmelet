@@ -3,7 +3,7 @@
 ## Jegyzetek, megjegyzések, vizsgák 
 * Az órák megértését segítendő, előadásjegyzet készült: [Mértékelmélet](http://www.bke.hu/magyarkuti/Mertekelmelet-2011.pdf)
 * Azoknak, akik nem kedvelik a rövid jegyzetet itt a könyv egy aktualizált változata: 
-[Mértékelmélet és Dinamikus Programozás (v1.5-26)](http://www.bke.hu/magyarkuti/main.pdf) 
+[Mértékelmélet és Dinamikus Programozás (v1.5-28)](http://www.bke.hu/magyarkuti/main.pdf) 
 Kötelességem feltüntetni a kiadói jogok tulajdonosát az eredeti változat megjelölésével: 
 [Mértékelmélet és Dinamikus Programozás, TypoTeX 2014](https://dtk.tankonyvtar.hu/xmlui/handle/123456789/3221).
 
@@ -23,7 +23,7 @@ Kötelességem feltüntetni a kiadói jogok tulajdonosát az eredeti változat m
    * A szigma additív függvény fogalma. (Vigyázat: az értelmezési tartomány nem feltétlenül szigma-algebra)
    * A mértéktér definíciója
    * A mérték:
-     * V égesen additív
+     * Végesen additív
      * Monoton
      * Szubtraktív
      * Szigma-szubadditív
