@@ -1,7 +1,7 @@
 {% include head.html %}
 
 ## Jegyzetek, megjegyzések, vizsgák 
-* Az órák megértését segítendő, előadásjegyzet készült: [Mértékelmélet](http://www.bke.hu/magyarkuti/Mertekelmelet-2011.pdf)
+* Az órák megértését segítendő, előadásjegyzet készült: [Mértékelmélet](http://www.bke.hu/magyarkuti/Mertekelmelet-2011.pdf).
 * Azoknak, akik nem kedvelik a rövid jegyzetet itt a könyv egy aktualizált változata: 
 [Mértékelmélet és Dinamikus Programozás (v1.5-28)](http://www.bke.hu/magyarkuti/main.pdf) 
 Kötelességem feltüntetni a kiadói jogok tulajdonosát az eredeti változat megjelölésével: 
